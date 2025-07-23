@@ -15,6 +15,7 @@
 | [0014-longest-common-prefix](https://github.com/RijoversalT/leetcode/tree/master/0014-longest-common-prefix) |
 | [0131-palindrome-partitioning](https://github.com/RijoversalT/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/RijoversalT/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/RijoversalT/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -31,4 +32,12 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/RijoversalT/leetcode/tree/master/0131-palindrome-partitioning) |
+## Stack
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/RijoversalT/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Greedy
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/RijoversalT/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
