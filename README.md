@@ -42,4 +42,12 @@
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RijoversalT/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/RijoversalT/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/RijoversalT/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
