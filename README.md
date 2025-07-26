@@ -4,6 +4,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/RijoversalT/leetcode/tree/master/0089-gray-code) |
 | [1054-complement-of-base-10-integer](https://github.com/RijoversalT/leetcode/tree/master/1054-complement-of-base-10-integer) |
 ## Array
 |  |
@@ -32,6 +33,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/RijoversalT/leetcode/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/RijoversalT/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/RijoversalT/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/RijoversalT/leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
