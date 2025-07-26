@@ -29,6 +29,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/RijoversalT/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/RijoversalT/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
@@ -56,4 +57,17 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/RijoversalT/leetcode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/RijoversalT/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/RijoversalT/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/RijoversalT/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/RijoversalT/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
