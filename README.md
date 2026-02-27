@@ -27,6 +27,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RijoversalT/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RijoversalT/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RijoversalT/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/RijoversalT/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Trie
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0089-gray-code](https://github.com/RijoversalT/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/RijoversalT/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RijoversalT/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/RijoversalT/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Tree
 |  |
 | ------- |
@@ -100,4 +102,16 @@
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RijoversalT/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/RijoversalT/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/RijoversalT/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/RijoversalT/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
