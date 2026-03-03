@@ -14,6 +14,7 @@
 | [0014-longest-common-prefix](https://github.com/RijoversalT/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RijoversalT/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RijoversalT/leetcode/tree/master/0027-remove-element) |
+| [0119-pascals-triangle-ii](https://github.com/RijoversalT/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RijoversalT/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String
 |  |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/RijoversalT/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0119-pascals-triangle-ii](https://github.com/RijoversalT/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/RijoversalT/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
