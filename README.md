@@ -18,6 +18,7 @@
 | [0120-triangle](https://github.com/RijoversalT/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RijoversalT/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RijoversalT/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/RijoversalT/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RijoversalT/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String
 |  |
@@ -105,6 +106,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RijoversalT/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RijoversalT/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
 |  |
@@ -123,6 +125,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/RijoversalT/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/RijoversalT/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |
