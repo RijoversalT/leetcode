@@ -53,6 +53,7 @@
 | [0120-triangle](https://github.com/RijoversalT/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RijoversalT/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RijoversalT/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RijoversalT/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/RijoversalT/leetcode/tree/master/0131-palindrome-partitioning) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/RijoversalT/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Backtracking
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/RijoversalT/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RijoversalT/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/RijoversalT/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RijoversalT/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## String Matching
 |  |
 | ------- |
@@ -131,4 +134,8 @@
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/RijoversalT/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RijoversalT/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
