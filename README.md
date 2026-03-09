@@ -47,6 +47,7 @@
 | [0096-unique-binary-search-trees](https://github.com/RijoversalT/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/RijoversalT/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/RijoversalT/leetcode/tree/master/0131-palindrome-partitioning) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/RijoversalT/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RijoversalT/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/RijoversalT/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Simulation
 |  |
 | ------- |
