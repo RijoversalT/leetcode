@@ -56,6 +56,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/RijoversalT/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/RijoversalT/leetcode/tree/master/0131-palindrome-partitioning) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/RijoversalT/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/RijoversalT/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RijoversalT/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/RijoversalT/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/RijoversalT/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Simulation
 |  |
 | ------- |
