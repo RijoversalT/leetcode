@@ -23,6 +23,7 @@
 | [0134-gas-station](https://github.com/RijoversalT/leetcode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RijoversalT/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RijoversalT/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2573-find-the-string-with-lcp](https://github.com/RijoversalT/leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RijoversalT/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RijoversalT/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RijoversalT/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2573-find-the-string-with-lcp](https://github.com/RijoversalT/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/RijoversalT/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Trie
 |  |
@@ -59,6 +61,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RijoversalT/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RijoversalT/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/RijoversalT/leetcode/tree/master/0131-palindrome-partitioning) |
+| [2573-find-the-string-with-lcp](https://github.com/RijoversalT/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/RijoversalT/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/RijoversalT/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Backtracking
@@ -79,6 +82,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RijoversalT/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/RijoversalT/leetcode/tree/master/0134-gas-station) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RijoversalT/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2573-find-the-string-with-lcp](https://github.com/RijoversalT/leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## Linked List
 |  |
 | ------- |
@@ -145,6 +149,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RijoversalT/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/RijoversalT/leetcode/tree/master/0130-surrounded-regions) |
+| [2573-find-the-string-with-lcp](https://github.com/RijoversalT/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/RijoversalT/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |
@@ -162,6 +167,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/RijoversalT/leetcode/tree/master/0130-surrounded-regions) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RijoversalT/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2573-find-the-string-with-lcp](https://github.com/RijoversalT/leetcode/tree/master/2573-find-the-string-with-lcp) |
 ## Graph Theory
 |  |
 | ------- |
