@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/RijoversalT/leetcode/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/RijoversalT/leetcode/tree/master/0136-single-number) |
 | [1054-complement-of-base-10-integer](https://github.com/RijoversalT/leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RijoversalT/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RijoversalT/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -21,6 +22,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/RijoversalT/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/RijoversalT/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/RijoversalT/leetcode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/RijoversalT/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RijoversalT/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RijoversalT/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/RijoversalT/leetcode/tree/master/2573-find-the-string-with-lcp) |
