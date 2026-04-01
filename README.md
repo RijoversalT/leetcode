@@ -28,6 +28,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/RijoversalT/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RijoversalT/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/RijoversalT/leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2751-robot-collisions](https://github.com/RijoversalT/leetcode/tree/master/2751-robot-collisions) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0020-valid-parentheses](https://github.com/RijoversalT/leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RijoversalT/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RijoversalT/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2751-robot-collisions](https://github.com/RijoversalT/leetcode/tree/master/2751-robot-collisions) |
 ## Greedy
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RijoversalT/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RijoversalT/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2751-robot-collisions](https://github.com/RijoversalT/leetcode/tree/master/2751-robot-collisions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -180,6 +183,7 @@
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RijoversalT/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2751-robot-collisions](https://github.com/RijoversalT/leetcode/tree/master/2751-robot-collisions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
