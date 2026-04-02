@@ -29,6 +29,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RijoversalT/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/RijoversalT/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/RijoversalT/leetcode/tree/master/2751-robot-collisions) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RijoversalT/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/RijoversalT/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/RijoversalT/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/RijoversalT/leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RijoversalT/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Backtracking
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 | [0130-surrounded-regions](https://github.com/RijoversalT/leetcode/tree/master/0130-surrounded-regions) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RijoversalT/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/RijoversalT/leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RijoversalT/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Graph Theory
 |  |
 | ------- |
