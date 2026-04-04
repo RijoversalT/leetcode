@@ -44,6 +44,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RijoversalT/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RijoversalT/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RijoversalT/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/RijoversalT/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/RijoversalT/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/RijoversalT/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Trie
@@ -146,6 +147,7 @@
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RijoversalT/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RijoversalT/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/RijoversalT/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/RijoversalT/leetcode/tree/master/2751-robot-collisions) |
 ## Breadth-First Search
 |  |
