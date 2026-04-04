@@ -96,6 +96,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/RijoversalT/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/RijoversalT/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 ## Recursion
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RijoversalT/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/RijoversalT/leetcode/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/RijoversalT/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RijoversalT/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
 |  |
