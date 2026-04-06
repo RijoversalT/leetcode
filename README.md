@@ -26,6 +26,7 @@
 | [0136-single-number](https://github.com/RijoversalT/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/RijoversalT/leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RijoversalT/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0874-walking-robot-simulation](https://github.com/RijoversalT/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/RijoversalT/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/RijoversalT/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/RijoversalT/leetcode/tree/master/2751-robot-collisions) |
@@ -136,6 +137,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/RijoversalT/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/RijoversalT/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/RijoversalT/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0874-walking-robot-simulation](https://github.com/RijoversalT/leetcode/tree/master/0874-walking-robot-simulation) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RijoversalT/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Prefix Sum
 |  |
@@ -147,6 +149,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/RijoversalT/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RijoversalT/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RijoversalT/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/RijoversalT/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
