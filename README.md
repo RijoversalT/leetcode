@@ -32,6 +32,7 @@
 | [2751-robot-collisions](https://github.com/RijoversalT/leetcode/tree/master/2751-robot-collisions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RijoversalT/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/RijoversalT/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/RijoversalT/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## String
 |  |
 | ------- |
@@ -209,4 +210,5 @@
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/RijoversalT/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/RijoversalT/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 <!---LeetCode Topics End-->
