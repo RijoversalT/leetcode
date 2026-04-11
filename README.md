@@ -33,6 +33,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RijoversalT/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/RijoversalT/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/RijoversalT/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/RijoversalT/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## String
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/RijoversalT/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0874-walking-robot-simulation](https://github.com/RijoversalT/leetcode/tree/master/0874-walking-robot-simulation) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RijoversalT/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/RijoversalT/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Prefix Sum
 |  |
 | ------- |
