@@ -61,6 +61,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RijoversalT/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RijoversalT/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RijoversalT/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0141-linked-list-cycle](https://github.com/RijoversalT/leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/RijoversalT/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
@@ -101,6 +102,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/RijoversalT/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/RijoversalT/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/RijoversalT/leetcode/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/RijoversalT/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/RijoversalT/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/RijoversalT/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/RijoversalT/leetcode/tree/master/0141-linked-list-cycle) |
 | [0874-walking-robot-simulation](https://github.com/RijoversalT/leetcode/tree/master/0874-walking-robot-simulation) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RijoversalT/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/RijoversalT/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
